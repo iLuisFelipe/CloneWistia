@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    padding: 55px 0 0 525px;
+}
+
+.title {
+    margin: 45px 0 0 -25px;
+}
+
+.google {
+    margin-top: 43px;
+    margin-left: -78px;
+    width: 410px;
+    height: 39px;
+    border-radius: 5px;
+}
+
+.microsoft {
+    margin-top: 12px;
+    margin-left: -78px;
+    width: 410px;
+    height: 39px;
+    border-radius: 5px;
+}
+
+.linha1 {
+    margin: 11px 0 0 45px;
+}
+
+.title-another-option {
+    margin: -14px 0 0 78px;
+}
+
+.linha2 {
+    margin: -26px 0 0 190px;
+}
+
+.register {
+    margin: 30px 0 0 -75px;
+}
+
+.first {
+    margin-left: -4px;
+    padding-left: 15px;
+    height: 40px;
+    width: 195px;
+    border-radius: 5px;
+}
+
+.last-name {
+    
+    margin: -60px 0 0 212px;
+}
+
+.last {
+    margin: 0 0 0 210px;
+    padding-left: 15px;
+    height: 40px;
+    width: 195px;
+    border-radius: 5px;
+}
+
+.email {
+    margin: 25px 0 0 0px;
+}
+
+.work-email {
+    margin: 0;
+    height: 40px;
+    width: 190px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.job-title {
+    margin: -60px 0 0 210px;
+}
+
+.job {
+    margin: 0 0 0 210px;
+    height: 40px;
+    width: 195px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.password {
+    margin: 20px 0 0 -2px;
+}
+
+.pass {
+    height: 40px;
+    width: 405px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.terms {
+    margin: 25px 0 -50px 0 ;
+    color: #a4a4ac;
+}
+
+a {
+    color: #a4a4ac;
+}
+.send {
+    margin: 0 0 0 150px;
+    height: 40px;
+    width: 178px;
+    border-radius: 5px;
+    background: #1c64f4;
+    border: 1px solid #1c64f4;
+    color: white;   
+}
+
+
+.footer {
+    margin: 40px 0 -18px -25px;
+}
+
+
+.imagem-footer {
+    height: 20px ;
+    margin: 0 0 0 70px;
+}
+
+.footer2 {
+    margin: -25px 0 -20px 170px;
+}
+
+.login {
+    margin: 0 0 0 230px;
+    color: #1c64f4;
+}
+
+.faq {
+    margin: 0 0 0 25px;
+    color: #1c64f4;
+    text-decoration: none;
+}
